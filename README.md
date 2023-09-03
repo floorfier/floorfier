@@ -1,4 +1,4 @@
-# 👋 Hiya coders, I’m @floorfier
+# 👋 Hiya coders, I’m @floorfier 🚀
 👀 I’m interested in frontend development
 🌱 I’m currently learning Vue.js
 📫 You can reach me by
